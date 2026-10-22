@@ -6,7 +6,7 @@ Check out the sql queries here: [SQL_Project](/SQL_Project/)
 # Background
 I wanted to navigate the data analytics job market as I am actively trying to improve my skills in this field. This project pinpoints the highest paid and most in-demand skills by anlaysing job postings throughout the world.
 
-Data analysis was conducted after creating a local database on postgres sql using data from [Data](/SQL_CSV/). The data mainly focussed on job titles, locations, salaries and essential skills.
+Data analysis was conducted after creating a local database on postgres sql using data from [Data](luke.co/sql_project_csvs). The data mainly focussed on job titles, locations, salaries and essential skills.
 
 # Questions answered in the exploratory data analysis:
 1. What are the top-paying data analyst jobs?
